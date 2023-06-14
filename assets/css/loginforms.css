@@ -22,8 +22,8 @@ body{
 
 .btn-primary:hover {
    
-    background-color: #a59b9b;
-    --bs-btn-hover-border-color: #a59b9b;
+    background-color: #6c63ff;
+    --bs-btn-hover-border-color: #6c63ff;
     border-color: var(--bs-btn-hover-border-color);
 }
 
